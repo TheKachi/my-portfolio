@@ -27,7 +27,9 @@
     </div>
 
     <div class="flex justify-between">
-      <a href="" class="underline underline-offset-8 decoration-brown"
+      <a
+        href="https://drive.google.com/file/d/1pcmaQB_0uvl1HvKuoYWgcHSesBu4RbUM/view?usp=sharing"
+        class="underline underline-offset-8 decoration-brown"
         >Download my CV?</a
       >
 

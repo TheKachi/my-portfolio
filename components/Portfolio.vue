@@ -10,7 +10,7 @@
         v-for="project in projects"
         :key="project.id"
       >
-        <div class="bg-light px-lg-48 py-lg-40">
+        <div class="bg-light p-lg-48">
           <!-- Project logo  -->
           <!-- <svg
             class=""
@@ -72,13 +72,14 @@
             class="w-80 h-80 mx-auto"
           />
         </div>
+
         <div class="bg-white p-24">
           <div class="flex justify-between items-center mb-32">
             <h5 class="text-xl text-brown font-futurabold">
               {{ project.title }}
             </h5>
             <div class="flex gap-16">
-              <a :href="project.website" v-if="project.website">
+              <a :href="project.website" v-if="project.website" target="blank">
                 <svg
                   width="12"
                   height="12"

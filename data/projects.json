@@ -28,11 +28,11 @@
   },
   {
     "id": "4",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644200966/Kachi._kbx4tz.svg",
+    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644224045/my-logo_2_siwq41.svg",
     "title": "My Portfolio",
     "skills": ["Vue", "Nuxt", "Tailwind"],
     "github": "https://github.com/TheKachi/my-portfolio.git",
-    "website": "",
+    "website": "https://thekachi.vercel.app",
     "description": ""
   }
 ]
