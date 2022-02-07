@@ -30,6 +30,7 @@
       <a
         href="https://drive.google.com/file/d/1pcmaQB_0uvl1HvKuoYWgcHSesBu4RbUM/view?usp=sharing"
         class="underline underline-offset-8 decoration-brown"
+        target="blank"
         >Download my CV?</a
       >
 

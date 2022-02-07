@@ -101,7 +101,7 @@
                   <line x1="10" y1="14" x2="21" y2="3"></line>
                 </svg>
               </a>
-              <a :href="project.github" v-if="project.github">
+              <a :href="project.github" v-if="project.github" target="blank">
                 <svg
                   width="12"
                   height="12"
