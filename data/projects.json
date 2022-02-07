@@ -14,7 +14,7 @@
     "title": "Alaajo",
     "skills": ["Vue", "Vuex", "Nuxt", "Bootstrap 5"],
     "github": "",
-    "website": "https://addons.opera.com/en/extensions/details/instaword/",
+    "website": "https://alaajo.com/",
     "description": ""
   },
   {
@@ -23,7 +23,7 @@
     "title": "Yebox v2",
     "skills": ["Vue", "Nuxt", "SCSS"],
     "github": "",
-    "website": "https://chrome.google.com/webstore/detail/random-48-laws-of-power/ldmplljofmghhnjapmbabolnigaeimed",
+    "website": "https://www.yebox.io/",
     "description": ""
   },
   {
@@ -31,8 +31,8 @@
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644200966/Kachi._kbx4tz.svg",
     "title": "My Portfolio",
     "skills": ["Vue", "Nuxt", "Tailwind"],
-    "github": "https://github.com/acekyd/laravelMp3",
-    "website": "https://packagist.org/packages/acekyd/laravelmp3",
+    "github": "https://github.com/TheKachi/my-portfolio.git",
+    "website": "",
     "description": ""
   }
 ]
