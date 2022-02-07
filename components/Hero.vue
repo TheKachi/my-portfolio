@@ -19,9 +19,9 @@
           e.t.c.
         </p>
         <p class="mb-120">
-          I'm constantly learning and relearning and recently, I've been trying
-          my hands on <strong>TypeScript</strong> and
-          <strong>Solidity</strong> .
+          I'm constantly learning and recently, I've been trying my hands on
+          <strong class="">TypeScript</strong> and
+          <strong class="">Solidity</strong> .
         </p>
       </div>
     </div>
