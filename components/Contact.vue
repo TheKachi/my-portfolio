@@ -7,10 +7,10 @@
       <ul
         class="flex flex-col gap-20 text-base font-futuralight underline underline-offset-4"
       >
-        <li><a href="">Email</a></li>
-        <li><a href="">Twitter</a></li>
-        <li><a href="">Github</a></li>
-        <li><a href="">LinkedIn</a></li>
+        <li><a href="mailto:nzebenflorence@gmail.com">Email</a></li>
+        <li><a href="https://twitter.com/thekachii">Twitter</a></li>
+        <li><a href="https://github.com/thekachi">Github</a></li>
+        <li><a href="https://linkedin.com/in/thekachi">LinkedIn</a></li>
       </ul>
     </section>
 
