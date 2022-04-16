@@ -1,38 +1,47 @@
 [
   {
     "id": "1",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644194899/planvest_logo_l4yy6r.svg",
-    "title": "Planvest Admin",
-    "skills": ["Vue", "Vuex", "Nuxt", "Tailwind"],
-    "github": "",
-    "website": "https://planvest-super-admin-frontend-ericee1022.vercel.app/signin",
-    "description": ""
-  },
-  {
-    "id": "2",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644195037/Logoalaajo_qasqzy.svg",
+    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647250770/Screen_Shot_2022-03-14_at_10.17.20_AM_gvo0zz.png",
     "title": "Alaajo",
     "skills": ["Vue", "Vuex", "Nuxt", "Bootstrap 5"],
     "github": "",
     "website": "https://alaajo.com/",
-    "description": ""
+    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW"
   },
   {
-    "id": "3",
+    "id": "2",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644200424/Group_1_jszams.svg",
     "title": "Yebox v2",
     "skills": ["Vue", "Nuxt", "SCSS"],
     "github": "",
     "website": "https://www.yebox.io/",
-    "description": ""
+    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW"
   },
   {
-    "id": "4",
+    "id": "3",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644224045/my-logo_2_siwq41.svg",
-    "title": "My Portfolio",
+    "title": "My Portfolio Website",
     "skills": ["Vue", "Nuxt", "Tailwind"],
     "github": "https://github.com/TheKachi/my-portfolio.git",
     "website": "https://thekachi.vercel.app",
-    "description": ""
+    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW"
+  },
+  {
+    "id": "4",
+    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647533832/Screen_Shot_2022-03-17_at_5.16.01_PM_kvc1zc.png",
+    "title": "Countrypedia",
+    "skills": ["Vue", "Vuex", "Nuxt", "Tailwind"],
+    "github": "",
+    "website": "https://planvest-super-admin-frontend-ericee1022.vercel.app/signin",
+    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW"
+  },
+  {
+    "id": "6",
+    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1644194899/planvest_logo_l4yy6r.svg",
+    "title": "Ete",
+    "skills": ["Vue", "Vuex", "Nuxt", "Tailwind"],
+    "github": "",
+    "website": "https://planvest-super-admin-frontend-ericee1022.vercel.app/signin",
+    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW"
   }
 ]

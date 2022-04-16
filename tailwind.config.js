@@ -1,5 +1,9 @@
 module.exports = {
-  purge: [],
+  purge: [
+    "./pages/**/*.{vue,js}",
+    "./components/**/*.{vue,js}",
+    "./node_modules/tw-elements/dist/js/**/*.js",
+  ],
   darkMode: "class", // or false or 'class'
   theme: {
     colors: {
