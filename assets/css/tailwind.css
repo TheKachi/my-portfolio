@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic);
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -19,7 +20,7 @@
   }
 
   body {
-    @apply text-text font-futuraregular;
+    @apply text-brown font-futuraregular;
   }
 
   .shadow-custom {

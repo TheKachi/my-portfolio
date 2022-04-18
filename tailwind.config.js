@@ -6,26 +6,6 @@ module.exports = {
   ],
   darkMode: "class", // or false or 'class'
   theme: {
-    colors: {
-      transparent: "transparent",
-      current: "currentColor",
-      white: {
-        light: "#f5f4fc",
-        DEFAULT: "#fff",
-      },
-      black: "#000",
-      grey: "#3d3d3d",
-      text: "#263547",
-      brown: "#2C2C2C",
-      light: "rgba(245, 244, 252, 0.62)",
-    },
-
-    fontFamily: {
-      futuralight: "Futura-Light, sans-serif",
-      futuraregular: "Futura-Book, sans-serif",
-      futurabold: "Futura-Medium, sans-serif",
-    },
-
     fontSize: {
       // 12. 14, 16, 18, 20, 24, 32, 48, 64
       xs: "12px",
@@ -65,9 +45,29 @@ module.exports = {
     },
 
     extend: {
-      // letterSpacing: {
-      //   logo: ".5em",
-      // },
+      colors: {
+        transparent: "transparent",
+        current: "currentColor",
+        white: {
+          light: "#f5f4fc",
+          DEFAULT: "#fff",
+        },
+        black: "#000",
+        grey: "#3d3d3d",
+        text: "#263547",
+        brown: "#2C2C2C",
+        light: "rgba(245, 244, 252, 0.62)",
+      },
+
+      fontFamily: {
+        futuralight: "Futura-Light, sans-serif",
+        futuraregular: "Futura-Book, sans-serif",
+        futurabold: "Futura-Medium, sans-serif",
+      },
+
+      gridTemplateColumns: {
+        custom: "repeat(2, minmax(140px, 200px))",
+      },
     },
   },
 

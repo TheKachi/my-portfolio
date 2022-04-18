@@ -1,11 +1,7 @@
 <template>
   <div>
-    <div class="flex justify-between items-center px-12 md:px-48">
-      <span class="text-3xl">🦄</span>
-      <!-- <div class="flex justify-end gap-16 items-center">
-        <img src="../assets/img/hamburger.svg" alt="" />
-        <img src="../assets/img/moon.svg" alt="" />
-      </div> -->
+    <div class="flex justify-end px-12 md:px-48">
+      <i class="fas fa-moon"></i>
     </div>
     <Hero />
     <Portfolio />

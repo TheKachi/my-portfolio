@@ -1,7 +1,7 @@
 <template>
   <div class="grid grid-cols-12 gap-0">
     <side-bar class="col-span-1" />
-    <Nuxt class="col-span-11 px-10 py-36" />
+    <Nuxt class="col-span-11 px-10 py-36 bg-white" />
   </div>
 </template>
 
