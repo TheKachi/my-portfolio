@@ -4,7 +4,7 @@ module.exports = {
     "./components/**/*.{vue,js}",
     "./node_modules/tw-elements/dist/js/**/*.js",
   ],
-  darkMode: "class", // or false or 'class'
+  darkMode: "class",
   theme: {
     fontSize: {
       // 12. 14, 16, 18, 20, 24, 32, 48, 64
