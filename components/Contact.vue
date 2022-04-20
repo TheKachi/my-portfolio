@@ -1,11 +1,9 @@
 <template>
   <div>
     <section class="px-40 pt-80 pb-80 flex flex-col items-center">
-      <div class="mb-48 text-3xl text-brown text-center capitalize">
-        Get In Touch?
-      </div>
+      <h2 class="mb-48 text-3xl text-center capitalize">Get In Touch?</h2>
       <ul
-        class="flex flex-col gap-20 text-base font-futuralight underline underline-offset-4"
+        class="flex gap-20 text-base font-futuralight underline underline-offset-4"
       >
         <li>
           <a href="mailto:nzebenflorence@gmail.com" target="blank">Email</a>
@@ -20,12 +18,10 @@
       </ul>
     </section>
 
-    <footer class="px-40">
-      <hr />
-      <div class="py-16 text-xs text-brown text-center">
-        © 2022 Website designed &amp; built by
-        <a href="">Onyedikachi Nze-Ben</a> ✌🏽
-      </div>
+    <footer class="sm:px-40">
+      <p class="text-xs text-center">
+        © 2022 This website was designed &amp; built by me - Kachi Nze.
+      </p>
     </footer>
   </div>
 </template>
