@@ -8,7 +8,7 @@
       <div class="text-xl w-full lg:max-w-lg">
         <p>
           I'm a
-          <span class="text-orange-500 font-bold">frontend web engineer</span>
+          <span class="text-orange-500 font-bold">front-end web engineer</span>
           from Lagos, Nigeria who really enjoys building digital products that
           <span class="font-bold">scale</span>, are innovative, performant and
           <span class="font-bold"> accessible</span>
@@ -33,7 +33,11 @@
     </div>
 
     <div class="flex justify-between">
-      <a href="" target="blank">Download my CV?</a>
+      <a
+        href="https://drive.google.com/file/d/1OUwo4EKeHN0s287PTIcImYxmNN0ZHykE/view?usp=sharing"
+        target="blank"
+        >Download my CV?</a
+      >
 
       <span>scroll ↓</span>
     </div>
