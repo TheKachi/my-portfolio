@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="flex justify-end px-12 md:px-48">
-      <i class="fas fa-moon"></i>
+      <ThemeToggler />
     </div>
     <Hero />
     <Portfolio />
@@ -10,7 +10,9 @@
 </template>
 
 <script>
+import ThemeToggler from "../components/ThemeToggler.vue";
 export default {
   name: "IndexPage",
+  components: { ThemeToggler },
 };
 </script>
