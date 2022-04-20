@@ -1,6 +1,6 @@
 <template>
   <section
-    class="h-screen px-12 md:px-48 md:py-40 flex flex-col justify-center items-stretch"
+    class="h-screen px-20 md:px-48 md:py-40 flex flex-col justify-center items-stretch"
   >
     <div class="">
       <h1 class="text-xl -mb-16 ml-[6px]">Hi there, my name is</h1>
@@ -43,7 +43,7 @@
     </div>
   </section>
 </template>
-how
+
 <script>
 export default {
   name: "Hero",
