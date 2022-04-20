@@ -20,7 +20,7 @@
 
     <footer class="sm:px-40">
       <p class="text-xs text-center">
-        © 2022 This website was designed &amp; built by me - Kachi Nze.
+        © 2022 This website was designed &amp; built by me - Dikachi Nze.
       </p>
     </footer>
   </div>
