@@ -3,10 +3,10 @@
     "id": "1",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1650134832/Screen_Shot_2022-04-16_at_7.46.15_PM_gl2q4g.png",
     "title": "Alaajo",
-    "skills": ["Vuex", "Nuxt", "Bootstrap 5"],
+    "skills": ["Vuex", "Nuxt", "Bootstrap", "REST API"],
     "github": "",
     "website": "https://alaajo.com/",
-    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW",
+    "description": "This is web app / MVP for a company that offers lending, saving and borrowing for peers. Alaajo was my first prod project! :) ",
     "class": "pink"
   },
   {
@@ -16,7 +16,7 @@
     "skills": ["Nuxt", "SCSS"],
     "github": "",
     "website": "https://www.yebox.io/",
-    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW",
+    "description": "Shortly after I joined Yebox, I had the task of revamping the company's website optimizing for speed, accessibility, security, performance, and new team members' memojis. 😇",
     "class": "amber"
   },
   {
@@ -26,17 +26,17 @@
     "skills": ["Nuxt", "Tailwind"],
     "github": "https://github.com/TheKachi/my-portfolio.git",
     "website": "https://thekachi.vercel.app",
-    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW",
+    "description": "Whew! What can I say?! Many iterations later, and we're finally here.🙃 I hope you fork it. :)",
     "class": "teal"
   },
   {
     "id": "4",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647533832/Screen_Shot_2022-03-17_at_5.16.01_PM_kvc1zc.png",
     "title": "Countrypedia",
-    "skills": ["Nuxt", "Tailwind"],
+    "skills": ["Nuxt", "Tailwind", "REST API"],
     "github": "https://github.com/TheKachi/countrypedia",
-    "website": "https://planvest-super-admin-frontend-ericee1022.vercel.app/signin",
-    "description": "I was in charge of design “Virtual Retailing” service for dealerships, we build several industry breaking features such as real-time payments from lenders and approval under 90 seconds, trade-in with conditions evaluated to the pennies, checkout payments with Stripe integration. You can see live product on one of our customer's website Nalley BMW",
+    "website": "https://country-api-wine.vercel.app/",
+    "description": "My first Vue weekend project! On countrypedia, you can search for any country or capital in the world and get very vital information. Pretty nifty.",
     "class": "orange"
   }
 ]
