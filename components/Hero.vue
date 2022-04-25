@@ -8,7 +8,7 @@
       <div class="text-xl w-full lg:max-w-lg">
         <p>
           I'm a
-          <span class="text-orange-500 font-bold">front-end web engineer</span>
+          <span class="text-orange-500 font-bold">frontend web engineer</span>
           from Lagos, Nigeria who really enjoys building digital products that
           <span class="font-bold">scale</span>, are innovative, performant and
           <span class="font-bold"> accessible</span>
