@@ -34,7 +34,7 @@
 
     <div class="flex justify-between">
       <a
-        href="https://drive.google.com/file/d/1OUwo4EKeHN0s287PTIcImYxmNN0ZHykE/view?usp=sharing"
+        href="https://docs.google.com/document/d/1p6YbXdZC-HS3qgKRvi5nNAgRLla9RnoPSEASJBLqy0E/edit?usp=sharing"
         target="blank"
         >Download my CV?</a
       >
@@ -52,8 +52,10 @@ export default {
     skills: [
       "Vue JS",
       "Nuxt JS",
+      "Pinia",
       "Vuex",
-      "Vanilla JS",
+      "React JS",
+      "Ethers.js",
       "(S)CSS",
       "Tailwind",
       "Bootstrap",
