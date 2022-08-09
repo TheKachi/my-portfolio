@@ -1,7 +1,6 @@
 {
   "name": "portfolio-v2",
   "short_name": "portfolio-v2",
-  "description": "## Build Setup",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.cf4920.png",
