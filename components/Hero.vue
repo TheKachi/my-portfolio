@@ -45,9 +45,10 @@
 </template>
 
 <script>
+import Carousel from "./Carousel.vue";
+
 export default {
   name: "Hero",
-
   data: () => ({
     skills: [
       "TypeScript",
@@ -64,5 +65,6 @@ export default {
       "Semantic HTML",
     ],
   }),
+  components: { Carousel },
 };
 </script>
