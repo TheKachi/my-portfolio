@@ -13,7 +13,7 @@
       <!-- color divider -->
       <div
         role="divider"
-        class="h-[8px] w-full mx-auto mb-48 md:mb-[90px]"
+        class="h-[2px] w-full mx-auto mb-48 md:mb-[90px]"
         :style="{ backgroundColor: project.tag }"
       ></div>
 
@@ -21,14 +21,22 @@
       <Carousel :slides="project.slides" />
 
       <div class="w-[50vw] mx-auto my-[60px]">
-        <!-- description  -->
-        <p class="text-[20px]">{{ project.description }}</p>
+        <p class="text-[20px] font-bold">Tools</p>
+
         <!-- skills  -->
         <ul class="flex gap-x-24 py-24 font-mono">
-          <li v-for="skill in project.skills" :key="skill" class="text-lg">
+          <li
+            v-for="skill in project.skills"
+            :key="skill"
+            class="text-[14px] uppercase tracking-widest"
+          >
             {{ skill }}
           </li>
         </ul>
+
+        <!-- description  -->
+        <p class="text-[20px] font-bold">Project description</p>
+
         <!-- links  -->
         <div class="flex items-center gap-16">
           <a :href="project.website" target="blank"> visit site </a>
