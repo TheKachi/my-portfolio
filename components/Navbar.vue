@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex px-36">
+  <nav class="flex justify-between items-center px-36">
     <nuxt-link to="/" class="no-underline font-bold">DN</nuxt-link>
     <!-- theme toggler  -->
     <ThemeToggler />
