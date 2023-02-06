@@ -29,7 +29,11 @@ export default {
 
   components: true,
 
-  buildModules: ["@nuxtjs/tailwindcss", "@nuxtjs/color-mode"],
+  buildModules: [
+    "@nuxtjs/tailwindcss",
+    "@nuxtjs/color-mode",
+    "@nuxtjs/vuetify",
+  ],
 
   modules: ["@nuxtjs/pwa", "@nuxt/content"],
 
