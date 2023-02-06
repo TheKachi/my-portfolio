@@ -1,6 +1,6 @@
 <template>
   <section
-    class="h-screen px-20 md:px-48 md:py-40 flex flex-col justify-center items-stretch"
+    class="h-[calc(100vh-100px)] px-20 md:px-48 md:py-40 flex flex-col justify-center items-stretch"
   >
     <div class="">
       <h1 class="text-xl -mb-16 ml-[6px]">Hi there, my name is</h1>
@@ -19,7 +19,7 @@
           are:
         </p>
         <ul
-          class="grid grid-cols-[repeat(2,_minmax(140px,_180px))] gap-x-12 gap-y-4 mt-20 mb-120"
+          class="grid grid-cols-[repeat(2,_minmax(140px,_180px))] gap-x-12 gap-y-4 mt-20 mb-120 md:mb-[60px]"
         >
           <li
             v-for="skill in skills"
@@ -39,7 +39,12 @@
         >Download my CV?</a
       >
 
-      <span>scroll ↓</span>
+      <span class=""
+        >scroll
+        <i
+          class="fas fa-arrow-down animate-bounce p-8 rounded-full border border-brown dark:border-slate-100 ml-20"
+        ></i
+      ></span>
     </div>
   </section>
 </template>

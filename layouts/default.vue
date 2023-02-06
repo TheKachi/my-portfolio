@@ -1,5 +1,5 @@
 <template>
-  <div class="p-12 md:py-24 md:px-48">
+  <div class="md:px-48">
     <Navbar />
     <div class="grid grid-cols-12 gap-0">
       <side-bar class="hidden md:block md:col-span-1" />
