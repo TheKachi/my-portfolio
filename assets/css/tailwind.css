@@ -19,11 +19,11 @@
   }
 
   body {
-    @apply bg-white dark:bg-[#121212] text-brown dark:text-[#8892b0] font-futuraregular;
+    @apply bg-white dark:bg-black text-brown dark:text-slate-200 font-futuraregular;
   }
 
   a {
-    @apply text-slate-700 dark:text-[#ccd6f6] hover:text-brown decoration-slate-400 hover:decoration-orange-500 underline underline-offset-2 transform transition duration-500;
+    @apply text-brown dark:text-slate-100 hover:text-brown decoration-brown dark:decoration-slate-100 hover:decoration-orange-500 underline underline-offset-2 transform transition duration-500;
   }
 
   h2,
@@ -31,6 +31,6 @@
   h4,
   h5,
   h6 {
-    @apply text-brown dark:text-[#ccd6f6];
+    @apply text-brown dark:text-slate-100;
   }
 }

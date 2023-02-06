@@ -52,7 +52,11 @@ module.exports = {
           light: "#f5f4fc",
           DEFAULT: "#fff",
         },
-        black: "#000",
+        black: "#121212",
+        slate: {
+          100: "#ccd6f6",
+          200: "#8892b0",
+        },
         grey: "#3d3d3d",
         text: "#263547",
         brown: "#2C2C2C",
