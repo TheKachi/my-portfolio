@@ -23,6 +23,7 @@
     "webpack": "^4.46.0"
   },
   "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
     "postcss": "^8.4.4",
     "tailwindcss": "^3.0.15"
   }
