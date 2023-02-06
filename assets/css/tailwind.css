@@ -19,11 +19,11 @@
   }
 
   body {
-    @apply bg-white dark:bg-[#0a192f] text-brown dark:text-[#8892b0] font-futuraregular;
+    @apply bg-white dark:bg-[#121212] text-brown dark:text-[#8892b0] font-futuraregular;
   }
 
   a {
-    @apply text-slate-700 dark:text-[#ccd6f6] hover:text-brown decoration-slate-400 hover:decoration-orange-500 underline underline-offset-2 transform transition duration-500 hover:scale-110;
+    @apply text-slate-700 dark:text-[#ccd6f6] hover:text-brown decoration-slate-400 hover:decoration-orange-500 underline underline-offset-2 transform transition duration-500;
   }
 
   h2,
