@@ -1,6 +1,6 @@
 <template>
-  <section class="px-0 sm:px-20 pt-[150px] pb-60" id="projects">
-    <h2 class="mb-80 text-center text-xl sm:text-2xl md:text-3xl font-bold">
+  <section class="px-0 sm:px-20 pt-[75px] md:pt-[150px] pb-60" id="projects">
+    <h2 class="mb-80 md:mb-120 text-center text-2xl md:text-3xl font-bold">
       Some of the things I've built...
     </h2>
 

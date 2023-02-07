@@ -34,3 +34,7 @@
     @apply text-brown dark:text-slate-100;
   }
 }
+
+div[class*="col"] {
+  padding: 0;
+}
