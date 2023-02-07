@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col gap-32 mb-32">
+  <div class="flex flex-col gap-24 md:gap-32 mb-32">
     <Heading title="What I did" />
 
     <UnorderedList :list="list.description" />

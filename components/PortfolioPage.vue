@@ -1,11 +1,13 @@
 <template>
-  <div class="bg-[inherit] h-screen p-12 md:py-24 md:px-48">
+  <div class="">
     <!-- Nav  -->
     <Navbar />
-    <div class="w-[65vw] mx-auto md:pb-[90px]">
+
+    <div class="md:w-[65vw] md:mx-auto px-20 md:pb-[90px]">
+      <!-- Back to projects  -->
       <NuxtLink
         to="/#projects"
-        class="flex items-center gap-[4px] no-underline"
+        class="flex items-center gap-[4px] no-underline mt-24 md:mt-60 mb-28"
       >
         <svg
           fill="none"
@@ -25,9 +27,10 @@
         </svg>
         Back to projects
       </NuxtLink>
+
       <!-- Title  -->
       <h5
-        class="capitalize mt-40 pl-24 lg:pl-0 text-[28px] md:text-[40px] font-futurabold no-underline"
+        class="capitalize text-[32px] md:text-[40px] font-futurabold no-underline"
       >
         {{ project.title }}
       </h5>
@@ -35,20 +38,22 @@
       <!-- color divider -->
       <div
         role="divider"
-        class="h-[2px] w-full mx-auto mb-48 md:mb-[90px]"
+        class="h-[2px] w-full"
         :style="{ backgroundColor: project.tag }"
       ></div>
+
+      <div class="mb-48 md:mb-[90px]"></div>
 
       <!-- carousel  -->
       <Carousel :slides="project.slides" />
 
-      <div class="w-[50vw] mx-auto my-[60px]">
+      <div class="md:w-[50vw] md:mx-auto md:my-[60px]">
         <!-- skills  -->
-        <ul class="flex gap-x-24 py-24 font-mono">
+        <ul class="flex flex-wrap gap-y-8 gap-x-24 py-24 font-mono">
           <li
             v-for="skill in project.skills"
             :key="skill"
-            class="text-[14px] uppercase tracking-widest"
+            class="text-[12px] uppercase tracking-widest"
           >
             {{ skill }}
           </li>

@@ -92,25 +92,6 @@
   },
   {
     "id": "2",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1675638800/Screen_Shot_2023-02-06_at_12.12.52_AM_mfiojn.png",
-    "title": "My Portfolio Website",
-    "skills": ["Nuxt", "Tailwind"],
-    "github": "https://github.com/TheKachi/my-portfolio.git",
-    "website": "https://thekachi.xyz",
-    "description": "Second iteration of my portfolio website. Built with Nuxt and Tailwind",
-    "tag": "rgb(249 115 22)",
-    "slug": "my-portfolio",
-    "slides": [
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638800/Screen_Shot_2023-02-06_at_12.12.52_AM_mfiojn.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638623/Screen_Shot_2023-02-06_at_12.08.14_AM_makbru.png"
-      }
-    ]
-  },
-  {
-    "id": "1",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647533832/Screen_Shot_2022-03-17_at_5.16.01_PM_kvc1zc.png",
     "title": "Countrypedia",
     "skills": ["Nuxt", "Tailwind", "REST API"],
@@ -131,6 +112,25 @@
       },
       {
         "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638348/countrypedia-light_tn3fvr.png"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1675638800/Screen_Shot_2023-02-06_at_12.12.52_AM_mfiojn.png",
+    "title": "My Portfolio Website",
+    "skills": ["Nuxt", "Tailwind"],
+    "github": "https://github.com/TheKachi/my-portfolio.git",
+    "website": "https://thekachi.xyz",
+    "description": "Second iteration of my portfolio website. Built with Nuxt and Tailwind",
+    "tag": "rgb(249 115 22)",
+    "slug": "my-portfolio",
+    "slides": [
+      {
+        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638800/Screen_Shot_2023-02-06_at_12.12.52_AM_mfiojn.png"
+      },
+      {
+        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638623/Screen_Shot_2023-02-06_at_12.08.14_AM_makbru.png"
       }
     ]
   }
