@@ -69,7 +69,7 @@
     "id": "3",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1650139864/Screen_Shot_2022-04-16_at_9.10.20_PM_cidarw.png",
     "title": "Yebox v2",
-    "skills": ["Nuxt", "SCSS"],
+    "skills": ["Nuxt", "SCSS", "Bootstrap 5"],
     "github": "",
     "website": "https://www.yebox.io/",
     "description": "Landing page for a web design and development agency",
