@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{363:function(e,n,t){"use strict";t.r(n);var l={name:"InferusPage",layout:"portfolio"},o=t(29),component=Object(o.a)(l,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,null,null);n.default=component.exports}}]);
