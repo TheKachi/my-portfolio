@@ -6,10 +6,7 @@
         class="flex gap-20 text-base font-futuralight underline underline-offset-4"
       >
         <li>
-          <a href="mailto:nzebenflorence@gmail.com" target="blank">Email</a>
-        </li>
-        <li>
-          <a href="https://twitter.com/thekachii" target="blank">Twitter</a>
+          <a href="mailto:thekachinze@gmail.com" target="blank">Email</a>
         </li>
         <li><a href="https://github.com/thekachi" target="blank">Github</a></li>
         <li>

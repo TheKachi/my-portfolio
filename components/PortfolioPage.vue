@@ -1,9 +1,9 @@
 <template>
-  <div class="">
+  <div class="h-full">
     <!-- Nav  -->
     <Navbar />
 
-    <div class="md:w-[65vw] md:mx-auto px-20 md:pb-[90px]">
+    <div class="md:w-[65vw] md:mx-auto px-20">
       <!-- Back to projects  -->
       <NuxtLink
         to="/#projects"
@@ -42,12 +42,11 @@
         :style="{ backgroundColor: project.tag }"
       ></div>
 
-      <div class="mb-48 md:mb-[90px]"></div>
-
+      <div class="mb-48"></div>
       <!-- carousel  -->
       <Carousel :slides="project.slides" />
 
-      <div class="md:w-[50vw] md:mx-auto md:my-[60px]">
+      <div class="md:w-[50vw] md:mx-auto mb-[24px] md:mb-[60px]">
         <!-- skills  -->
         <ul class="flex flex-wrap gap-y-8 gap-x-24 py-24 font-mono">
           <li

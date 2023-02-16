@@ -38,3 +38,8 @@
 div[class*="col"] {
   padding: 0;
 }
+
+.v-application--wrap {
+  @apply min-h-0;
+  /* min-height: 10vh; */
+}

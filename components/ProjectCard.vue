@@ -15,7 +15,7 @@
     <div class="col-span-12 lg:col-span-6">
       <!-- Title  -->
       <h5
-        class="capitalize pt-40 pl-16 md:pl-0 text-[28px] font-futurabold no-underline"
+        class="capitalize pt-40 pl-16 lg:pl-0 text-[28px] font-futurabold no-underline"
       >
         {{ project.title }}
       </h5>

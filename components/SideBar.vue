@@ -34,36 +34,17 @@ export default {
           icon: "fab fa-github",
         },
         {
-          title: "Twitter",
-          link: "https://twitter.com/thekachii",
-          icon: "fab fa-twitter",
-        },
-        {
           title: "Linkedin",
           link: "https://linkedin.com/in/thekachi",
           icon: "fab fa-linkedin-in",
         },
         {
           title: "Email",
-          link: "mailto:nzebenflorence@gmail.com",
+          link: "mailto:thekachinze@gmail.com",
           icon: "fas fa-envelope",
         },
       ],
     };
-  },
-
-  methods: {
-    // activePage(link, title) {
-    //   let path = link.split("/")[1];
-    //   let name = title === "Contact us" ? "support" : title;
-    //   let re = new RegExp(path, "g");
-    //   if (name.toLowerCase() === path && re.test(link)) return true;
-    //   return false;
-    // },
-  },
-
-  components: {
-    // SvgLoader,
   },
 };
 </script>
